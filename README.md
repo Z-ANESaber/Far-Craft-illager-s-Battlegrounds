@@ -1,4 +1,7 @@
 ![illager's battlegrounds banner](https://cdn.modrinth.com/data/cached_images/af143eb7be1f56c98c8d8109c0cffad04843bcb8.jpeg)
+![available for fabric badge](https://cdn.modrinth.com/data/cached_images/494796378432be9d93ed79cc79812bc8068ebd02.png)
+![available for quilt badge](https://cdn.modrinth.com/data/cached_images/ec5b4065201e8f39744a730b90f99629769bb561.png)
+
 
 The illagers are attacking. They have become stronger and taken over the land. It is now up to you to fight back. With realistic guns and vehicles at your disposal you will show them what you are made of.
 <br><br>
