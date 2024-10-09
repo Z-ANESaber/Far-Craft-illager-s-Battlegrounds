@@ -1,4 +1,10 @@
-![illager's battlegrounds banner](https://cdn.modrinth.com/data/cached_images/af143eb7be1f56c98c8d8109c0cffad04843bcb8.jpeg)
+![illager's battlegrounds banner](https://cdn.modrinth.com/data/cached_images/af143eb7be1f56c98c8d8109c0cffad04843bcb8.jpeg)                       
+
+<p align="center">
+  <img width="460" height="150" src="https://cdn.modrinth.com/data/cached_images/9854f51ded6b58641fc17de8498e3c9df8af224c.png">
+</p>
+
+
 ![available for fabric badge](https://cdn.modrinth.com/data/cached_images/494796378432be9d93ed79cc79812bc8068ebd02.png)
 ![available for quilt badge](https://cdn.modrinth.com/data/cached_images/ec5b4065201e8f39744a730b90f99629769bb561.png)
 
