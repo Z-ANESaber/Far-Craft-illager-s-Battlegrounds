@@ -4,9 +4,13 @@
   <img width="460" height="150" src="https://cdn.modrinth.com/data/cached_images/9854f51ded6b58641fc17de8498e3c9df8af224c.png">
 </p>
 
+<p align="center">
+  <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/494796378432be9d93ed79cc79812bc8068ebd02.png">
 
-![available for fabric badge](https://cdn.modrinth.com/data/cached_images/494796378432be9d93ed79cc79812bc8068ebd02.png)
-![available for quilt badge](https://cdn.modrinth.com/data/cached_images/ec5b4065201e8f39744a730b90f99629769bb561.png)
+  <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/ec5b4065201e8f39744a730b90f99629769bb561.png">
+</p>
+
+
 
 
 The illagers are attacking. They have become stronger and taken over the land. It is now up to you to fight back. With realistic guns and vehicles at your disposal you will show them what you are made of.
