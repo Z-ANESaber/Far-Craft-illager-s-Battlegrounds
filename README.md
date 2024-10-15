@@ -42,6 +42,10 @@ A bunch of new and exciting bosses to face. Use your arsenal wisely.
 ![screenshot of the modified illager mansion (not to be confused with the vanilla woodland mansion)](https://cdn.modrinth.com/data/cached_images/bdc0e015febe05c9749babd372652bace020cf7e.jpeg)
 Explore and raid a bunch of new structures which the illagers reside in. It won't be easy so bring your best gear.
 
+## (Optional) Body cam shader
+![screenshot of the body cam shader](https://cdn.modrinth.com/data/cached_images/b84a308e3e0dc6ba15d72371d69dc3250953f7b3.jpeg)
+This shader replicates the look of a body camera used by the police or the military. Can be turned on in the shader settings but is **NOT** enabled by default.
+
 ## Take & develop polaroid pictures
 ![screenshot of the in-game polaroid camera mod looking through the lens of said polaroid](https://cdn.modrinth.com/data/cached_images/c6c28a4c691f53cf7e984cfb1ea50bf72e46d803.jpeg)
 Whether it's for gathering intel on your enemies or just to remember your adventures you can now gather a polaroid camera and film to take photos of the things you explore, or yourself and some friends. These photos can be hung on your wall at home.
