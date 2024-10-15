@@ -46,10 +46,6 @@ Explore and raid a bunch of new structures which the illagers reside in. It won'
 ![screenshot of the in-game polaroid camera mod looking through the lens of said polaroid](https://cdn.modrinth.com/data/cached_images/c6c28a4c691f53cf7e984cfb1ea50bf72e46d803.jpeg)
 Whether it's for gathering intel on your enemies or just to remember your adventures you can now gather a polaroid camera and film to take photos of the things you explore, or yourself and some friends. These photos can be hung on your wall at home.
 
-## Mobs becoming harder over time
-![screenshot of zombies and skeletons at night](https://cdn.modrinth.com/data/cached_images/9c1dbdb73aac4859256608b92b3999f214671fa1.jpeg)
-Mobs will progressively become more difficult the longer you play. So you better get some good tools before they become too strong for you.
-
 ## Optimization mods
 ![screenshot of the fps counter on 1153 fps and the logos of the mods: iris, sodium, fabric and lithium](https://cdn.modrinth.com/data/cached_images/6e9b743f6c23a77aa3ab49bed7add100d75f4a49.jpeg)
 Rest assured that even with all of the mods above your game will still run smoothly thanks to all of the optimization mods that have been put into this.
@@ -70,7 +66,6 @@ Neoforge: No
 - [Armorful](https://modrinth.com/mod/armorful) (Adds armor for various mobs naturally)
 - [Exposure](https://modrinth.com/mod/exposure) (Adds a polaroid camera to take photos, develop them and maybe hang them on your wall)
 - [FastMove](https://modrinth.com/mod/fastmove) (Add some style to your movement with fully animated dive rolls, wall runs, and more)
-- [Hostile Mobs Improve over time](https://modrinth.com/datapack/hostile-mobs-improve-over-time)
 - [illager invasion](https://modrinth.com/mod/illager-invasion) (Adds new illager types and structures)
 - [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour) (Gives certain mobs the ability to jump over things)
 - [The Graveyard](https://modrinth.com/mod/the-graveyard-fabric) (Adds structures, mobs, bosses and blocks themed around the graveyard.)
