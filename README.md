@@ -10,13 +10,11 @@
   <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/ec5b4065201e8f39744a730b90f99629769bb561.png">
 </p>
 
+# Downloads: <br>
+Modrinth: https://modrinth.com/modpack/illagers-battlegrounds <br>
+CurseForge: https://www.curseforge.com/minecraft/modpacks/illagers-battlegrounds
 
-
-
-The illagers are attacking. They have become stronger and taken over the land. It is now up to you to fight back. With realistic guns and vehicles at your disposal you will show them what you are made of.
-<br><br>
-But the illagers aren't your only problem. There are creatures far more powerful out there that have been created by failed experiments by the illagers and are now roaming free. Can you stop them?
-<br><br><br><br><br>
+<br>
 
 ![features banner](https://cdn.modrinth.com/data/cached_images/43bfe4c7bcc38e6b8fca924dfe4f2acb8628bd49.png)
 ## Weapons
