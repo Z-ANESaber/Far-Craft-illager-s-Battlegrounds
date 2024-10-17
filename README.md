@@ -74,11 +74,19 @@ Neoforge: No
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers) (Adds new villages, pillager outposts, and even new ships)
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds) (Adds ambient nature sounds that are dynamic)
 - [Bosses of mass destruction](https://modrinth.com/mod/bosses-of-mass-destruction) (Adds bosses)
-- [EMI](https://modrinth.com/mod/emi) (A featureful and accessible item and recipe viewer)
 - [e4mc](https://modrinth.com/mod/e4mc) (Open a LAN server to the public even people outside your network)
 - [Dungeons And Taverns](https://modrinth.com/datapack/dungeons-and-taverns) (Adding dungeons, taverns and other structures to find while you explore the world.)
 - [Ultris: Boss Expansion](https://modrinth.com/datapack/ultris) (Adds 8 new bosses, new structures, items, and stories for you to unravel.)
-
+- [Enhanced Celestials](https://modrinth.com/mod/enhanced-celestials) (Adds Lunar Events like blood moons, harvest moons and more.)
+- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) (Adds upgradeable backpacks to store items in on the go.)
+- [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) (Highly configurable third person camera mod)
+- [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) (Adds several new structures to explore and fight in.)
+- [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas) (Expansion to the base mod that adds ships and other water dungeons/structures.)
+- [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) (A bunch of rustic aircraft to travel, transport, and explore!)
+- [Man Of Many Planes](https://modrinth.com/mod/man-of-many-planes) (Expansion to Immersive Aircraft adding modern planes.)
+- [Hang Glider](https://modrinth.com/mod/hang-glider) (Adds a hang glider. Similar to the Elytra but easier to obtain.)
+- [A'RIP&TEA Pack](https://www.curseforge.com/minecraft/customization/tacz-ariptea-pack-by-astrallin) (Gun pack)
+- [EMX-Arms gunpack](https://www.curseforge.com/minecraft/customization/tacz-emx-arms-gunpack) (Gun pack)
 
 
 
@@ -122,13 +130,15 @@ Neoforge: No
 - [Village Spawn Point](https://modrinth.com/mod/village-spawn-point) (Sets the spawn point in a new world to the center of a village.)
 - [Villager Names](https://modrinth.com/mod/villager-names-serilum) (Gives all villager entities a default or custom name to liven up the world.)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) (Provides realistic sound attenuation, reverberation, and absorption through blocks.)
-
+- [Just Enough Items](https://modrinth.com/mod/jei) (Adds an item menu that shows crafting recipes.)
+- [Hide Experimental Warning](https://modrinth.com/mod/hide-experimental-warning) (Hides the warning that pops up whenever you create or load into a singleplayer world.)
+  
 
 
 ### Shaders:
 - [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
 - [Bliss](https://modrinth.com/shader/bliss-shader)
-
+- [Body Camera Shader](https://modrinth.com/shader/body-camera-shader)
 
 
 ### Resource packs:
@@ -162,6 +172,7 @@ Neoforge: No
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 - [EntityTextureFeatures](https://modrinth.com/mod/entitytexturefeatures)
 - [owo-lib](https://modrinth.com/mod/owo-lib)
+- [CorgiLib](https://modrinth.com/mod/corgilib)
 
 
 ### Copyright notice
