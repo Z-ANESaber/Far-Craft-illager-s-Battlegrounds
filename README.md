@@ -15,6 +15,10 @@ Modrinth: https://modrinth.com/modpack/illagers-battlegrounds <br>
 CurseForge: https://www.curseforge.com/minecraft/modpacks/illagers-battlegrounds
 
 <br>
+The illagers are attacking. They have become stronger and taken over the land. It is now up to you to fight back. With realistic guns and vehicles at your disposal you will show them what you are made of.
+<br><br>
+But the illagers aren't your only problem. There are creatures far more powerful out there that have been created by failed experiments by the illagers and are now roaming free. Can you stop them?
+<br><br><br><br><br>
 
 ![features banner](https://cdn.modrinth.com/data/cached_images/43bfe4c7bcc38e6b8fca924dfe4f2acb8628bd49.png)
 ## Weapons
@@ -22,9 +26,10 @@ CurseForge: https://www.curseforge.com/minecraft/modpacks/illagers-battlegrounds
 ![screenshot of an akm within the game with a bright, rainy forest in the background](https://cdn.modrinth.com/data/cached_images/b475073856b46c9945c17e8a9534e98720188cc3.webp)
 A big library of real-life-inspired weapons each with their own unique animations and ammos. These are all craftable using the gun bench.
 
-## Vehicles
+## Vehicles & Planes
 ![screenshot of a in-game one-seater car](https://cdn.modrinth.com/data/cached_images/4c8eb15ed09eba98ffe31a103124a97a5c24f77e.jpeg)
-A large amount of craftable vehicles to drive. Some with special abilities like driving up blocks.
+![screenshot of many different planes available on a superflat world](https://cdn.modrinth.com/data/cached_images/3d1e3777328aa066b371001585728f519cc050f5.jpeg)
+A large amount of craftable vehicles and planes. Some with special abilities like driving up blocks or loaded guns.
 
 ## Parkour (Slide, dive & wall-running)
 ![FastMove Parkour demo](https://cdn.modrinth.com/data/XmqpPthc/images/431ce2cb39d82e5dc643e2f6ac37f751dcf330ee.webp)
@@ -46,7 +51,7 @@ This shader replicates the look of a body camera used by the police or the milit
 
 ## Take & develop polaroid pictures
 ![screenshot of the in-game polaroid camera mod looking through the lens of said polaroid](https://cdn.modrinth.com/data/cached_images/c6c28a4c691f53cf7e984cfb1ea50bf72e46d803.jpeg)
-Whether it's for gathering intel on your enemies or just to remember your adventures you can now gather a polaroid camera and film to take photos of the things you explore, or yourself and some friends. These photos can be hung on your wall at home.
+Whether it's for gathering intel on your enemies or just to remember your adventures you can now craft a polaroid camera and film to take photos of the things you explore, or yourself and some friends. These photos can be hung on your wall at home.
 
 ## Optimization mods
 ![screenshot of the fps counter on 1153 fps and the logos of the mods: iris, sodium, fabric and lithium](https://cdn.modrinth.com/data/cached_images/6e9b743f6c23a77aa3ab49bed7add100d75f4a49.jpeg)
@@ -57,9 +62,12 @@ Rest assured that even with all of the mods above your game will still run smoot
 Conveniently install resource packs and shaders straight from the game itself without having to restart.
 
 ## Does this work on Quilt/Forge/Neoforge?
-Quilt: Yes <br>
-Forge: No <br>
-Neoforge: No
+| Loader              | Works?                | 
+|---------------------|:---------------------:|
+| Quilt               | ✅                    |
+| Forge               | ❌                    |
+| Neoforge            | ❌                    |
+
 
 ## Mods used (On the latest version of the pack)
 ### Gameplay Mods:
