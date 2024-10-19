@@ -61,8 +61,8 @@ Rest assured that even with all of the mods above your game will still run smoot
 ![screenshot of resourcify. the mod that lets you install shaders and resource packs from within the game](https://cdn.modrinth.com/data/cached_images/632e8e3b13c4f276bcf74012975243665270358e.jpeg)
 Conveniently install resource packs and shaders straight from the game itself without having to restart.
 
-## Does this work on Quilt/Forge/Neoforge?
-| Loader              | Works?                | 
+## Compatibility
+| Loader              | Supported?             | 
 |---------------------|:---------------------:|
 | Quilt               | ✅                    |
 | Forge               | ❌                    |
