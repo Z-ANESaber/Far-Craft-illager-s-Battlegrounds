@@ -70,7 +70,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 
 
 # Mods used (On the latest version of the pack)
-### Gameplay Mods:
+## Gameplay Mods:
 - [Timeless and Classics Zero](https://modrinth.com/mod/timeless-and-classics-zero) (Adds 3D realistic guns along with ammo and attachment crafting)
 - [Automobility](https://modrinth.com/mod/automobility) (Adds driveable cars)
 - [Armorful](https://modrinth.com/mod/armorful) (Adds armor for various mobs naturally)
@@ -98,7 +98,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 
 
 
-### Performance Mods:
+## Performance Mods:
 - [Sodium](https://modrinth.com/mod/sodium) (Rendering engine to significantly enhance FPS)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) (Optimizes all immediate mode rendering by using a custom buffer implementation)
 - [BetterF3](https://modrinth.com/mod/betterf3) (Makes the F3 menu customizable. My included config removes a lot of the unneeded information which improves performance.)
@@ -123,7 +123,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 
 
 
-### Quality-of-life Mods:
+## Quality-of-life Mods:
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
 - [Resourcify](https://modrinth.com/mod/resourcify) (Adds a menu to install shaders and resource packs from within the game. [Screenshot](https://cdn.modrinth.com/data/4WwOrx5T/images/944d2ff71a2b998090e7acb0a6ebc06944fca490.png))
 - [CraftPresence](https://modrinth.com/mod/craftpresence) (Adds discord rich presence to the game which is also customizable)
@@ -150,13 +150,13 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) (Makes the game's initial loading screen black instead of red)
 
 
-### Shaders:
+## Shaders:
 - [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
 - [Bliss](https://modrinth.com/shader/bliss-shader)
 - [Body Camera Shader](https://modrinth.com/shader/body-camera-shader)
 
 
-### Resource packs:
+## Resource packs:
 - [Low on fire](https://modrinth.com/resourcepack/low-on-fire) (Lowers the fire on your screen when you're on fire.)
 - [Fast better grass](https://modrinth.com/resourcepack/fast-better-grass)
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) (Gives every enchantment book its own unique texture)
@@ -166,7 +166,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 
 
 
-### Library/Dependency Mods:
+## Library/Dependency Mods:
 - [Areas](https://modrinth.com/mod/areas)
 - [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
