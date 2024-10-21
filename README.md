@@ -61,7 +61,7 @@ Rest assured that even with all of the mods above your game will still run smoot
 ![screenshot of resourcify. the mod that lets you install shaders and resource packs from within the game](https://cdn.modrinth.com/data/cached_images/632e8e3b13c4f276bcf74012975243665270358e.jpeg)
 Conveniently install resource packs and shaders straight from the game itself without having to restart.
 
-## Compatibility
+# Compatibility
 | Loader              | Supported?             | 
 |---------------------|:---------------------:|
 | Quilt               | ✅                    |
@@ -69,7 +69,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 | Neoforge            | ❌                    |
 
 
-## Mods used (On the latest version of the pack)
+# Mods used (On the latest version of the pack)
 ### Gameplay Mods:
 - [Timeless and Classics Zero](https://modrinth.com/mod/timeless-and-classics-zero) (Adds 3D realistic guns along with ammo and attachment crafting)
 - [Automobility](https://modrinth.com/mod/automobility) (Adds driveable cars)
@@ -119,6 +119,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) (Improves the chunk performance)
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) (Reduce block entity FPS lag with almost no compromises, and improve their visuals)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric) (Improves server performance at high playercounts)
+- [ThreadTweak](https://modrinth.com/mod/threadtweak) (Improves CPU threading to improve performance)
 
 
 
@@ -140,7 +141,13 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) (Provides realistic sound attenuation, reverberation, and absorption through blocks.)
 - [Just Enough Items](https://modrinth.com/mod/jei) (Adds an item menu that shows crafting recipes.)
 - [Hide Experimental Warning](https://modrinth.com/mod/hide-experimental-warning) (Hides the warning that pops up whenever you create or load into a singleplayer world.)
-  
+- [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus) (Shows a timer on the top right that shows what shows what status effects you currently have and for how long it lasts)
+- [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) (Allows you to harvest crops by right clicking)
+- [Horse Buff](https://modrinth.com/mod/horsebuff) (Adds QOL features to horses like horses being able to sit in boats, swimming, saddled horses not wandering etc)
+- [Cave Dust](https://modrinth.com/mod/cave-dust) (Adds dust particles to caves)
+- [World Play Time](https://modrinth.com/mod/world-play-time) (Adds a timer for how long you have played each world)
+- [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) (Removes incompatibility warning for resource packs)
+- [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) (Makes the game's initial loading screen black instead of red)
 
 
 ### Shaders:
@@ -152,7 +159,9 @@ Conveniently install resource packs and shaders straight from the game itself wi
 ### Resource packs:
 - [Low on fire](https://modrinth.com/resourcepack/low-on-fire) (Lowers the fire on your screen when you're on fire.)
 - [Fast better grass](https://modrinth.com/resourcepack/fast-better-grass)
-- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) (Makes all the GUI darker)
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) (Gives every enchantment book its own unique texture)
+- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui) (Changes the GUI texture of every interactable block)
+- [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops) (Makes crops and farms look fuller.)
 - [Ray's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders) & [Ray's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails) (Makes both the ladders and rails 3D)
 
 
@@ -181,7 +190,8 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [EntityTextureFeatures](https://modrinth.com/mod/entitytexturefeatures)
 - [owo-lib](https://modrinth.com/mod/owo-lib)
 - [CorgiLib](https://modrinth.com/mod/corgilib)
-
+- [JamLib](https://modrinth.com/mod/jamlib)
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn) (Required for Even Better Enchants)
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
