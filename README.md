@@ -11,7 +11,7 @@
 </p>
 
 # Downloads: <br>
-Modrinth: https://modrinth.com/modpack/illagers-battlegrounds <br>
+Modrinth: https://modrinth.com/modpack/farcraft <br>
 CurseForge: https://www.curseforge.com/minecraft/modpacks/illagers-battlegrounds
 
 <br>
