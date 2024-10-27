@@ -1,4 +1,4 @@
-![illager's battlegrounds banner](https://cdn.modrinth.com/data/cached_images/af143eb7be1f56c98c8d8109c0cffad04843bcb8.jpeg)                       
+![illager's battlegrounds banner](https://cdn.modrinth.com/data/cached_images/0ce2cd53115e87a8e4a26df4ba04c950ffa67248_0.webp)                       
 
 <p align="center">
   <img width="460" height="150" src="https://cdn.modrinth.com/data/cached_images/9854f51ded6b58641fc17de8498e3c9df8af224c.png">
@@ -20,7 +20,8 @@ The illagers are attacking. They have become stronger and taken over the land. I
 But the illagers aren't your only problem. There are creatures far more powerful out there that have been created by failed experiments by the illagers and are now roaming free. Can you stop them?
 <br><br><br><br><br>
 
-![features banner](https://cdn.modrinth.com/data/cached_images/43bfe4c7bcc38e6b8fca924dfe4f2acb8628bd49.png)
+![features banner](https://cdn.modrinth.com/data/cached_images/a351af5507cc3ae55e5acd88b25b7457a50467a0.png)
+
 ## Weapons
 ![screenshot of an in-game realistic desert eagle inspecting animation](https://cdn.modrinth.com/data/cached_images/a14794dea296f0e41689671dd9454415f7c42575.jpeg)
 ![screenshot of an akm within the game with a bright, rainy forest in the background](https://cdn.modrinth.com/data/cached_images/b475073856b46c9945c17e8a9534e98720188cc3.webp)
