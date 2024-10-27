@@ -94,9 +94,13 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) (A bunch of rustic aircraft to travel, transport, and explore!)
 - [Man Of Many Planes](https://modrinth.com/mod/man-of-many-planes) (Expansion to Immersive Aircraft adding modern planes.)
 - [Hang Glider](https://modrinth.com/mod/hang-glider) (Adds a hang glider. Similar to the Elytra but easier to obtain.)
-- [A'RIP&TEA Pack](https://www.curseforge.com/minecraft/customization/tacz-ariptea-pack-by-astrallin) (Gun pack)
-- [EMX-Arms gunpack](https://www.curseforge.com/minecraft/customization/tacz-emx-arms-gunpack) (Gun pack)
+- [AdventureZ](https://modrinth.com/mod/adventurez) (Adds a new endboss and more creatures.)
 
+## Gun Packs
+- [Classics Reborn](https://www.curseforge.com/minecraft/customization/tacz-classics-reborn)
+- [Suffuse GunSmoke](https://www.curseforge.com/minecraft/customization/suffuse-gunsmoke)
+- [A'RIP&TEA Pack](https://www.curseforge.com/minecraft/customization/tacz-ariptea-pack-by-astrallin)
+- [EMX-Arms gunpack](https://www.curseforge.com/minecraft/customization/tacz-emx-arms-gunpack) 
 
 
 ## Performance Mods:
@@ -121,8 +125,11 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) (Reduce block entity FPS lag with almost no compromises, and improve their visuals)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric) (Improves server performance at high playercounts)
 - [ThreadTweak](https://modrinth.com/mod/threadtweak) (Improves CPU threading to improve performance)
-
-
+- [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) (Decreases the time it takes for servers to load in the server list.)
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (Adds a proximity chat with Sound Physics Remastered support (reverb in caves, muffled sounds through blocks, etc.))
+- [Simple Voice Radio](https://modrinth.com/mod/simple-voice-radio) (Adds a radio to talk to other players from a distance.)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (Press M to view a map of the parts of the world you have loaded, add markers and more.)
+  
 
 ## Quality-of-life Mods:
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
@@ -149,12 +156,18 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [World Play Time](https://modrinth.com/mod/world-play-time) (Adds a timer for how long you have played each world)
 - [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) (Removes incompatibility warning for resource packs)
 - [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) (Makes the game's initial loading screen black instead of red)
+- [Ping Wheel](https://modrinth.com/mod/ping-wheel) (Press the middle mouse button to ping the location you are looking at which other players will be able to see.)
+- [EasyAnvils](https://modrinth.com/mod/easy-anvils) (Anvil overhaul: Free name tag changes, repairable anvils, no max level limit and more.)
+- [EasyMagic](https://modrinth.com/mod/easy-magic) (Items stay in the enchanting table, adds a button to re-roll enchantments and more.)
+- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) (Shows the server ping on TAB in ms instead of bars.)
+- [Bobby](https://modrinth.com/mod/bobby) (Gives you the option to set a further render distance than what the server allows.)
+- [Trade Cycling](https://modrinth.com/mod/trade-cycling) (Adds a button to villager trades to reset their offerings.)
 
 
 ## Shaders:
-- [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
 - [Bliss](https://modrinth.com/shader/bliss-shader)
 - [Body Camera Shader](https://modrinth.com/shader/body-camera-shader)
+
 
 
 ## Resource packs:
@@ -193,6 +206,8 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [CorgiLib](https://modrinth.com/mod/corgilib)
 - [JamLib](https://modrinth.com/mod/jamlib)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) (Required for Even Better Enchants)
+- [LexiConfig](https://modrinth.com/mod/lexiconfig) (Dependency mod for Simple Voice Radio)
+
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
