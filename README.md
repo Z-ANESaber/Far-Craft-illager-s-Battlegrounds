@@ -12,7 +12,7 @@
 
 # Downloads: <br>
 Modrinth: https://modrinth.com/modpack/farcraft <br>
-CurseForge: https://www.curseforge.com/minecraft/modpacks/illagers-battlegrounds
+CurseForge: https://www.curseforge.com/minecraft/modpacks/illagerbattleground
 
 <br>
 The illagers are attacking. They have become stronger and taken over the land. It is now up to you to fight back. With realistic guns and vehicles at your disposal you will show them what you are made of.
