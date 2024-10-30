@@ -106,6 +106,7 @@ PC: <br>
 Tested for 10 minutes each, same seed, same position <br> <br>
 Settings: <br>
 - Minecraft 1.20.1 <br>
+- Modpack version 2.0 <br>
 - 12 Chunks render distance <br>
 - 8 Chunks Max Shadow Distance <br>
 - 12 Chunks Simulation Distance <br>
