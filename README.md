@@ -69,6 +69,63 @@ Conveniently install resource packs and shaders straight from the game itself wi
 | Forge               | ❌                    |
 | Neoforge            | ❌                    |
 
+# Which loader is right for you?
+### Startup times
+| Loader              | Time in seconds        | 
+|---------------------|:---------------------: |
+| Fabric 👑          | 31.1                   |
+| Quilt               | 32.56                  |
+
+### World creation times
+| Loader              | Time in seconds        | 
+|---------------------|:---------------------: |
+| Fabric              | 23.1                   |
+| Quilt   👑         | 22.75                  |
+
+### World loading times
+| Loader              | Time in seconds        | 
+|---------------------|:---------------------: |
+| Fabric 👑           | 14.9                   |
+| Quilt               | 17.96                  |
+
+### FPS
+| Loader              | Average FPS            | Minimum FPS (1% Lows) | 
+|---------------------|:---------------------: |:---------------------:|
+| Fabric              | 920                    | 914 👑                  |
+| Quilt               | 930 👑                 | 890                   |
+
+
+<details>
+<summary>System tested on</summary>
+PC: <br>
+- AMD Ryzen 9 5900x <br>
+- RTX 4070 ti <br>
+- 32GB DDR4 3600mhz Ram <br>
+- Corsair MP600 Pro XT SSD <br>
+<br>
+Tested for 10 minutes each, same seed, same position <br> <br>
+Settings: <br>
+- Minecraft 1.20.1 <br>
+- 12 Chunks render distance <br>
+- 8 Chunks Max Shadow Distance <br>
+- 12 Chunks Simulation Distance <br>
+- Graphics Fancy <br>
+- VSync Off <br>
+- Framerate Unlimited
+</details>
+
+### Mod compatibility
+| Loader              | 
+|---------------------|
+| Fabric 👑           | 
+| Quilt               | 
+
+### Stability
+| Loader              | 
+|---------------------|
+| Fabric 👑           | 
+| Quilt               | 
+
 
 # Mods used (On the latest version of the pack)
 ## Gameplay Mods:
