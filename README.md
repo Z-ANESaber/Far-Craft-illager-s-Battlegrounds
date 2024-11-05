@@ -187,6 +187,8 @@ Settings: <br>
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (Adds a proximity chat with Sound Physics Remastered support (reverb in caves, muffled sounds through blocks, etc.))
 - [Simple Voice Radio](https://modrinth.com/mod/simple-voice-radio) (Adds a radio to talk to other players from a distance.)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (Press M to view a map of the parts of the world you have loaded, add markers and more.)
+- [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Adds culling to leaf blocks. Resulting in big performance boost.)
+- [Fadeless](https://modrinth.com/mod/fadeless) (Remove fade out animations.)
   
 
 ## Quality-of-life Mods:
@@ -220,7 +222,11 @@ Settings: <br>
 - [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) (Shows the server ping on TAB in ms instead of bars.)
 - [Bobby](https://modrinth.com/mod/bobby) (Gives you the option to set a further render distance than what the server allows.)
 - [Trade Cycling](https://modrinth.com/mod/trade-cycling) (Adds a button to villager trades to reset their offerings.)
-
+- [Explosive Enhancements](https://modrinth.com/mod/explosive-enhancement) (Adds cooler looking explosions to creepers and tnt)
+- [Danger Close](https://modrinth.com/mod/danger-close) (Torches, campfires, and stonecutters will now deal damage to players, animals, or enemies that run over or brush against them.)
+- [Villagers: Far From Home](https://modrinth.com/mod/villagers-far-from-home) (Adds a way to transport villagers. For more information check mod page.)
+- [Villager Death Message](https://modrinth.com/mod/villager-death-messages) (Adds a message in chat when a villager dies.)
+- [No Telemetry](https://modrinth.com/mod/no-telemetry) (Disables Minecraft telemetry.)
 
 ## Shaders:
 - [Bliss](https://modrinth.com/shader/bliss-shader)
@@ -265,7 +271,7 @@ Settings: <br>
 - [JamLib](https://modrinth.com/mod/jamlib)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) (Required for Even Better Enchants)
 - [LexiConfig](https://modrinth.com/mod/lexiconfig) (Dependency mod for Simple Voice Radio)
-
+- [MonoLib](https://modrinth.com/mod/monolib) (Dependency mod.)
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
