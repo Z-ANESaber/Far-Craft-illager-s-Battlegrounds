@@ -193,7 +193,7 @@ Settings: <br>
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (Press M to view a map of the parts of the world you have loaded, add markers and more.)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Adds culling to leaf blocks. Resulting in big performance boost.)
 - [Fadeless](https://modrinth.com/mod/fadeless) (Remove fade out animations.)
-  
+- [Exordium](https://modrinth.com/mod/exordium) (Render the GUI and screens at a lower framerate to improve performance of everything else)
 
 ## Quality-of-life Mods:
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
@@ -230,7 +230,14 @@ Settings: <br>
 - [Danger Close](https://modrinth.com/mod/danger-close) (Torches, campfires, and stonecutters will now deal damage to players, animals, or enemies that run over or brush against them.)
 - [Villagers: Far From Home](https://modrinth.com/mod/villagers-far-from-home) (Adds a way to transport villagers. For more information check mod page.)
 - [Villager Death Message](https://modrinth.com/mod/villager-death-messages) (Adds a message in chat when a villager dies.)
-- [No Telemetry](https://modrinth.com/mod/no-telemetry) (Disables Minecraft telemetry.)
+- [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) (More detail about armor in Armor bar.)
+- [Eating Animation](https://modrinth.com/mod/eating-animation) (A mod that adds sprite animations for edible and drinkable items.)
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves) (Adds a neat little particle effect to leaf blocks)
+- [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) (Adds little animations when you pick up or insert items with your mouse.)
+- [AttributeFix](https://modrinth.com/mod/attributefix) (Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!)
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (A mod that fixes random memory leaks for both the client and server)
+- [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) (Provides a way to get enchantment descriptions from enchanted books.)
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (Dynamically creates configuration menus for every mod with a supported config system.)
 
 ## Shaders:
 - [Bliss](https://modrinth.com/shader/bliss-shader)
@@ -275,7 +282,8 @@ Settings: <br>
 - [JamLib](https://modrinth.com/mod/jamlib)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) (Required for Even Better Enchants)
 - [LexiConfig](https://modrinth.com/mod/lexiconfig) (Dependency mod for Simple Voice Radio)
-- [MonoLib](https://modrinth.com/mod/monolib) (Dependency mod.)
+- [MonoLib](https://modrinth.com/mod/monolib)
+- (Quilt Only) [Bookshelf](https://modrinth.com/mod/bookshelf-lib) (Dependency mod for Enchantment Description)
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
