@@ -140,7 +140,6 @@ Settings: <br>
 - [Exposure](https://modrinth.com/mod/exposure) (Adds a polaroid camera to take photos, develop them and maybe hang them on your wall)
 - [FastMove](https://modrinth.com/mod/fastmove) (Add some style to your movement with fully animated dive rolls, wall runs, and more)
 - [illager invasion](https://modrinth.com/mod/illager-invasion) (Adds new illager types and structures)
-- [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour) (Gives certain mobs the ability to jump over things)
 - [The Graveyard](https://modrinth.com/mod/the-graveyard-fabric) (Adds structures, mobs, bosses and blocks themed around the graveyard.)
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers) (Adds new villages, pillager outposts, and even new ships)
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds) (Adds ambient nature sounds that are dynamic)
@@ -157,6 +156,10 @@ Settings: <br>
 - [Man Of Many Planes](https://modrinth.com/mod/man-of-many-planes) (Expansion to Immersive Aircraft adding modern planes.)
 - [Hang Glider](https://modrinth.com/mod/hang-glider) (Adds a hang glider. Similar to the Elytra but easier to obtain.)
 - [AdventureZ](https://modrinth.com/mod/adventurez) (Adds a new endboss and more creatures.)
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (Adds a proximity chat with Sound Physics Remastered support (reverb in caves, muffled sounds through blocks, etc.))
+- [Simple Voice Radio](https://modrinth.com/mod/simple-voice-radio) (Adds a radio to talk to other players from a distance.)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (Press M to view a map of the parts of the world you have loaded, add markers and more.)
+
 
 ## Gun Packs
 - [Classics Reborn](https://www.curseforge.com/minecraft/customization/tacz-classics-reborn)
@@ -179,7 +182,6 @@ Settings: <br>
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations) (Optimization mod that focuses on things other than rendering)
 - [Debugify](https://modrinth.com/mod/debugify) (Fixes Minecraft bugs found on the bug tracker)
 - [Indium](https://modrinth.com/mod/indium) (Sodium addon providing support for the Fabric Rendering API, based on Indigo)
-- [Krypton](https://modrinth.com/mod/krypton) (Optimizes the networking stack)
 - [Lithium](https://modrinth.com/mod/lithium) (Game logic/server optimization mod)
 - [Language Reload](https://modrinth.com/mod/language-reload) (Reduces load times and adds fallbacks for languages)
 - [ServerCore](https://modrinth.com/mod/servercore) (Optimizes the minecraft server.)
@@ -188,9 +190,6 @@ Settings: <br>
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric) (Improves server performance at high playercounts)
 - [ThreadTweak](https://modrinth.com/mod/threadtweak) (Improves CPU threading to improve performance)
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) (Decreases the time it takes for servers to load in the server list.)
-- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (Adds a proximity chat with Sound Physics Remastered support (reverb in caves, muffled sounds through blocks, etc.))
-- [Simple Voice Radio](https://modrinth.com/mod/simple-voice-radio) (Adds a radio to talk to other players from a distance.)
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (Press M to view a map of the parts of the world you have loaded, add markers and more.)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Adds culling to leaf blocks. Resulting in big performance boost.)
 - [Fadeless](https://modrinth.com/mod/fadeless) (Remove fade out animations.)
 - [Exordium](https://modrinth.com/mod/exordium) (Render the GUI and screens at a lower framerate to improve performance of everything else)
@@ -238,9 +237,11 @@ Settings: <br>
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (A mod that fixes random memory leaks for both the client and server)
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) (Provides a way to get enchantment descriptions from enchanted books.)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (Dynamically creates configuration menus for every mod with a supported config system.)
+- [Solid Mobs](https://modrinth.com/mod/solid_mobs) (Gives mobs collisions & interactions like blocks.)
+
 
 ## Shaders:
-- [Bliss](https://modrinth.com/shader/bliss-shader)
+- [Solas Shaders](https://modrinth.com/shader/solas-shader)
 - [Body Camera Shader](https://modrinth.com/shader/body-camera-shader)
 
 
@@ -273,8 +274,6 @@ Settings: <br>
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Sodium Options API](https://modrinth.com/mod/sodium-options-api)
 - [UniLib](https://modrinth.com/mod/unilib)
-- [Yungs API](https://modrinth.com/mod/yungs-api)
-- [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 - [EntityTextureFeatures](https://modrinth.com/mod/entitytexturefeatures)
 - [owo-lib](https://modrinth.com/mod/owo-lib)
@@ -283,7 +282,7 @@ Settings: <br>
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) (Required for Even Better Enchants)
 - [LexiConfig](https://modrinth.com/mod/lexiconfig) (Dependency mod for Simple Voice Radio)
 - [MonoLib](https://modrinth.com/mod/monolib)
-- (Quilt Only) [Bookshelf](https://modrinth.com/mod/bookshelf-lib) (Dependency mod for Enchantment Description)
+- [Bookshelf](https://modrinth.com/mod/bookshelf-lib) (Dependency mod for Enchantment Description)
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
