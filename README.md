@@ -192,7 +192,6 @@ Settings: <br>
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) (Decreases the time it takes for servers to load in the server list.)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Adds culling to leaf blocks. Resulting in big performance boost.)
 - [Fadeless](https://modrinth.com/mod/fadeless) (Remove fade out animations.)
-- [Exordium](https://modrinth.com/mod/exordium) (Render the GUI and screens at a lower framerate to improve performance of everything else)
 
 ## Quality-of-life Mods:
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
