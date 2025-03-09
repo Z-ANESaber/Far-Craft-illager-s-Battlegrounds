@@ -92,7 +92,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [AdventureZ](https://modrinth.com/mod/adventurez) (Adds a new endboss and more creatures.)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (Adds a proximity chat with Sound Physics Remastered support (reverb in caves, muffled sounds through blocks, etc.))
 - [Simple Voice Radio](https://modrinth.com/mod/simple-voice-radio) (Adds a radio to talk to other players from a distance.)
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (Press M to view a map of the parts of the world you have loaded, add markers and more.)
+- [JourneyMap](https://modrinth.com/mod/journeymap) (Real-time mapping in game or in a web browser as you explore.)
 
 
 ## Gun Packs
@@ -126,6 +126,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) (Decreases the time it takes for servers to load in the server list.)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Adds culling to leaf blocks. Resulting in big performance boost.)
 - [Fadeless](https://modrinth.com/mod/fadeless) (Remove fade out animations.)
+- [BetterGrassify](https://modrinth.com/mod/bettergrassify) (OptiFine's Fancy and Fast better grass implemented on Fabric and NeoForge!)
 
 ## Quality-of-life Mods:
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
