@@ -81,7 +81,6 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [e4mc](https://modrinth.com/mod/e4mc) (Open a LAN server to the public even people outside your network)
 - [Dungeons And Taverns](https://modrinth.com/datapack/dungeons-and-taverns) (Adding dungeons, taverns and other structures to find while you explore the world.)
 - [Ultris: Boss Expansion](https://modrinth.com/datapack/ultris) (Adds 8 new bosses, new structures, items, and stories for you to unravel.)
-- [Enhanced Celestials](https://modrinth.com/mod/enhanced-celestials) (Adds Lunar Events like blood moons, harvest moons and more.)
 - [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) (Adds upgradeable backpacks to store items in on the go.)
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) (Highly configurable third person camera mod)
 - [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) (Adds several new structures to explore and fight in.)
@@ -148,7 +147,6 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Hide Experimental Warning](https://modrinth.com/mod/hide-experimental-warning) (Hides the warning that pops up whenever you create or load into a singleplayer world.)
 - [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus) (Shows a timer on the top right that shows what shows what status effects you currently have and for how long it lasts)
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) (Allows you to harvest crops by right clicking)
-- [Horse Buff](https://modrinth.com/mod/horsebuff) (Adds QOL features to horses like horses being able to sit in boats, swimming, saddled horses not wandering etc)
 - [Cave Dust](https://modrinth.com/mod/cave-dust) (Adds dust particles to caves)
 - [World Play Time](https://modrinth.com/mod/world-play-time) (Adds a timer for how long you have played each world)
 - [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) (Removes incompatibility warning for resource packs)
@@ -211,12 +209,12 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 - [EntityTextureFeatures](https://modrinth.com/mod/entitytexturefeatures)
 - [owo-lib](https://modrinth.com/mod/owo-lib)
-- [CorgiLib](https://modrinth.com/mod/corgilib)
 - [JamLib](https://modrinth.com/mod/jamlib)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) (Required for Even Better Enchants)
 - [LexiConfig](https://modrinth.com/mod/lexiconfig) (Dependency mod for Simple Voice Radio)
 - [MonoLib](https://modrinth.com/mod/monolib)
 - [Bookshelf](https://modrinth.com/mod/bookshelf-lib) (Dependency mod for Enchantment Description)
+- [Architectury API](https://modrinth.com/mod/architectury-api)
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
