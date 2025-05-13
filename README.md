@@ -170,7 +170,10 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) (Provides a way to get enchantment descriptions from enchanted books.)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (Dynamically creates configuration menus for every mod with a supported config system.)
 - [Solid Mobs](https://modrinth.com/mod/solid_mobs) (Gives mobs collisions & interactions like blocks.)
-
+- [More Mob Variants](https://modrinth.com/mod/more-mob-variants) (Adds new variants to existing mobs.)
+- [Visuality](https://modrinth.com/mod/visuality) (Little visual improvements by adding a bunch of new particles.)
+- [Item Borders](https://modrinth.com/mod/item-borders) (Add colored borders to inventory slots to make your rare items stand out!)
+  
 
 ## Shaders:
 - [Solas Shaders](https://modrinth.com/shader/solas-shader)
