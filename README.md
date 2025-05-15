@@ -1,8 +1,5 @@
 ![illager's battlegrounds banner](https://cdn.modrinth.com/data/cached_images/0ce2cd53115e87a8e4a26df4ba04c950ffa67248_0.webp)                       
 
-<p align="center">
-  <img width="55%" height="55%" src="https://cdn.modrinth.com/data/cached_images/9854f51ded6b58641fc17de8498e3c9df8af224c.png">
-</p>
 
 <p align="center">
   <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/494796378432be9d93ed79cc79812bc8068ebd02.png">
@@ -10,9 +7,21 @@
   <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/ec5b4065201e8f39744a730b90f99629769bb561.png">
 </p>
 
-# Downloads: <br>
-Modrinth: https://modrinth.com/modpack/farcraft <br>
-CurseForge: https://www.curseforge.com/minecraft/modpacks/illagerbattleground
+# Downloads:
+
+<a href="https://modrinth.com/modpack/farcraft">
+<img width="10%" height="10%" src="https://github.com/user-attachments/assets/6662edd1-6422-43fb-b414-6fda92edc1da" alt="Modrinth">
+</a>
+
+<a href="https://www.curseforge.com/minecraft/modpacks/illagerbattleground">
+<img width="10%" height="10%" src="https://github.com/user-attachments/assets/f3564481-924e-4116-9151-d70ed139f10a" alt="CurseForge">
+</a>
+
+<a href="https://github.com/Z-ANESaber/Far-Craft-illager-s-Battlegrounds/releases/latest">
+<img width="9%" height="10%" src="https://github.com/user-attachments/assets/500cb4f0-6fbe-4991-8a2a-f4cc4b596e77" alt="GitHub">
+</a>
+
+<br>
 
 <br>
 The illagers are attacking. They have become stronger and taken over the land. It is now up to you to fight back. With realistic guns and vehicles at your disposal you will show them what you are made of.
