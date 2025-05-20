@@ -96,12 +96,12 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas) (Expansion to the base mod that adds ships and other water dungeons/structures.)
 - [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) (A bunch of rustic aircraft to travel, transport, and explore!)
 - [Man Of Many Planes](https://modrinth.com/mod/man-of-many-planes) (Expansion to Immersive Aircraft adding modern planes.)
-- [Hang Glider](https://modrinth.com/mod/hang-glider) (Adds a hang glider. Similar to the Elytra but easier to obtain.)
+- [Gliders](https://modrinth.com/mod/gliders) (Adds a hang glider. Similar to the Elytra but easier to obtain.)
 - [AdventureZ](https://modrinth.com/mod/adventurez) (Adds a new endboss and more creatures.)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (Adds a proximity chat with Sound Physics Remastered support (reverb in caves, muffled sounds through blocks, etc.))
 - [Simple Voice Radio](https://modrinth.com/mod/simple-voice-radio) (Adds a radio to talk to other players from a distance.)
 - [JourneyMap](https://modrinth.com/mod/journeymap) (Real-time mapping in game or in a web browser as you explore.)
-
+- [Underground Bunkers](https://modrinth.com/mod/underground-bunkers) (Randomly generated bunkers hidden within your worlds)
 
 ## Gun Packs
 - [Classics Reborn](https://www.curseforge.com/minecraft/customization/tacz-classics-reborn)
@@ -156,7 +156,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Hide Experimental Warning](https://modrinth.com/mod/hide-experimental-warning) (Hides the warning that pops up whenever you create or load into a singleplayer world.)
 - [Effect Timer Plus](https://modrinth.com/mod/effecttimerplus) (Shows a timer on the top right that shows what shows what status effects you currently have and for how long it lasts)
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) (Allows you to harvest crops by right clicking)
-- [Cave Dust](https://modrinth.com/mod/cave-dust) (Adds dust particles to caves)
+- [Particular](https://modrinth.com/mod/particular) (Enhances Minecraft's ambience with hand-crafted visual effects like fireflies, falling leaves, and waterfall cascades)
 - [World Play Time](https://modrinth.com/mod/world-play-time) (Adds a timer for how long you have played each world)
 - [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) (Removes incompatibility warning for resource packs)
 - [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) (Makes the game's initial loading screen black instead of red)
@@ -182,7 +182,9 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) (Adds new variants to existing mobs.)
 - [Visuality](https://modrinth.com/mod/visuality) (Little visual improvements by adding a bunch of new particles.)
 - [Item Borders](https://modrinth.com/mod/item-borders) (Add colored borders to inventory slots to make your rare items stand out!)
-  
+- [Perception](https://modrinth.com/mod/perception) (Enriching the world with immersive visual effects)
+- [Particle Rain](https://modrinth.com/mod/particle-rain) (Replaces weather with prettier particle effects)
+- [Fog](https://modrinth.com/mod/fog) (Enhances fog rendering with dynamic, customizable effects—improving atmosphere and depth while preserving the vanilla experience and maintaining compatibility with other mods.)
 
 ## Shaders:
 - [Solas Shaders](https://modrinth.com/shader/solas-shader)
@@ -212,6 +214,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 - [Geckolib](https://modrinth.com/mod/geckolib)
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl) (Dependency for Fog)
 - [MRU](https://modrinth.com/mod/mru)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 - [Reeses Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
