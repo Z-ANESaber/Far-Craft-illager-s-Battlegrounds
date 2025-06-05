@@ -199,7 +199,7 @@ Conveniently install resource packs and shaders straight from the game itself wi
 - [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui) (Changes the GUI texture of every interactable block)
 - [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops) (Makes crops and farms look fuller.)
 - [Ray's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders) & [Ray's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails) (Makes both the ladders and rails 3D)
-
+- [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) (Improves the appearance of leaves with high mod compatibility and performance!)
 
 
 ## Library/Dependency Mods:
