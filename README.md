@@ -2,9 +2,8 @@
 
 
 <p align="center">
+  <img width="260" height="100" src="https://cdn.modrinth.com/data/cached_images/9335a2d04f672a66b68bab3d41436307dadc8eed.png">
   <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/494796378432be9d93ed79cc79812bc8068ebd02.png">
-
-  <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/ec5b4065201e8f39744a730b90f99629769bb561.png">
 </p>
 
 # Downloads:
@@ -13,13 +12,11 @@
 <img width="10%" height="10%" src="https://github.com/user-attachments/assets/6662edd1-6422-43fb-b414-6fda92edc1da" alt="Modrinth">
 </a>
 
-<a href="https://www.curseforge.com/minecraft/modpacks/illagerbattleground">
-<img width="10%" height="10%" src="https://github.com/user-attachments/assets/f3564481-924e-4116-9151-d70ed139f10a" alt="CurseForge">
-</a>
-
 <a href="https://github.com/Z-ANESaber/Far-Craft-illager-s-Battlegrounds/releases/latest">
 <img width="9%" height="10%" src="https://github.com/user-attachments/assets/500cb4f0-6fbe-4991-8a2a-f4cc4b596e77" alt="GitHub">
 </a>
+
+# CurseForge version is discontinued. Download on Modrinth or Github instead!
 
 <br>
 
