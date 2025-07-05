@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="260" height="100" src="https://cdn.modrinth.com/data/cached_images/9335a2d04f672a66b68bab3d41436307dadc8eed.png">
+  <img width="260" height="100" src="https://cdn.modrinth.com/data/cached_images/4174a1078c19116846ecb951923ec4907e1af885.png">
   <img width="260" height="70" src="https://cdn.modrinth.com/data/cached_images/494796378432be9d93ed79cc79812bc8068ebd02.png">
 </p>
 
